@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #FFFFFF;
+  background: linear-gradient(#040303, #929AAB);
+  font-family: 'Raleway', sans-serif;
+}
+
+.Headers {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+}
+
+.top-container {
+  padding-top: 100px;
+}
+
+.Stars {
+  height: 100%;
+  width: 100vw;
+  position: absolute;
+  right: 0;
+}
+
+.Profile-Pic {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+.Astronaut {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  width: 250px;
+  height: 300px;
+}
+
+.Moon {
+  position: absolute;
+  right: 300px;
+  top: 20px;
+  width: 325px;
+  height: 325px;
+}
+
+.Rocket {
+  position: absolute;
+  bottom: 450px;
+  right: 200px;
+}
+
+.Eth1 {
+  position: absolute;
+  left: 25px;
+  height: 100px;
+  bottom: -275px;
+}
+
+.Eth2 {
+  position: absolute;
+  right: 25px;
+  height: 100px;
+  bottom: -275px;
+}
+
+.Trademark {
+  margin: 0;
+}
+
+.Lines {
+  margin: 5px;
+  border-width: 2px;
+  border-color: #0B5269;
+  border-style: ridge;
+}
+
+.Table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
